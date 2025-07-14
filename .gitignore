@@ -17,7 +17,7 @@ ENV/
 
 # Logs and artifacts
 logs/
-artifacts/
+
 
 # Rope project files
 .ropeproject/
