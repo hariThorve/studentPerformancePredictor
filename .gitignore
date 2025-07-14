@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and artifacts
+logs/
+artifacts/
+
+# Rope project files
+.ropeproject/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment and lock files
+.env
+.env.*
+*.lock
+
+# Compiled files
+*.pyo
+*.pyd
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# Test and coverage outputs
+htmlcov/
+.coverage
+.tox/
+
+# Misc
+*.bak
+*.swp
+
+# Ignore notebook output if needed
+notebook/*-checkpoint.ipynb 
